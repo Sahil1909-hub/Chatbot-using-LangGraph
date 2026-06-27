@@ -4,13 +4,8 @@ langchain-community
 langchain-groq
 langchain-huggingface
 langchain-core
-langchain-text-splitters
-faiss-cpu
-sentence-transformers
 streamlit
 python-dotenv
 pypdf
-chromadb
-langchain-chromadb
 langgraph-checkpoint-sqlite
-langsmith
+ddgs
